@@ -1,0 +1,22 @@
+[16-Mar-2021 20:55:25 Asia/Tokyo] PHP Warning:  require(../..common/validation.php): failed to open stream: No such file or directory in /var/www/html/user/action/register.php on line 3
+[16-Mar-2021 20:55:25 Asia/Tokyo] PHP Fatal error:  require(): Failed opening required '../..common/validation.php' (include_path='.:/usr/local/lib/php') in /var/www/html/user/action/register.php on line 3
+[16-Mar-2021 20:55:52 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to undefined function stringMaxSizeCheck() in /var/www/html/user/action/register.php:20
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/user/action/register.php on line 20
+[16-Mar-2021 20:56:20 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to undefined function stringMaxSizeCheck() in /var/www/html/user/action/register.php:20
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/user/action/register.php on line 20
+[16-Mar-2021 20:56:24 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to undefined function stringMaxSizeCheck() in /var/www/html/user/action/register.php:20
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/user/action/register.php on line 20
+[17-Mar-2021 20:35:56 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to undefined function stringMaxSizeCheck() in /var/www/html/login/action/login.php:18
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/login/action/login.php on line 18
+[17-Mar-2021 20:36:38 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to undefined function stringMaxSizeCheck() in /var/www/html/login/action/login.php:18
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/login/action/login.php on line 18
